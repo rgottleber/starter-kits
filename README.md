@@ -2,8 +2,17 @@
 A repo of starter kits for working with various languages and frameworks across the smart contract ecosystem. 
 
 ## Active Repos
----
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); grid-gap: 1rem; text-align:center">
+|                                                                                                  |       |       |
+| :----------------------------------------------------------------------------------------------: | :---: | :---: |
+| Chainlink Mix <br>  <a href="https://github.com/smartcontractkit/chainlink-mix" target="_blank"> |
+<img src="./img/chainlink-brownie.png" width="225" alt="Chainlink Brownie logo">
+</a>  <br> Mixing up delicious brownie treats |Chainlink Hardhat <br> <a href="https://github.com/smartcontractkit/hardhat-starter-kit" target="_blank">
+<img src="./img/chainlink-hardhat.png" width="225" alt="Chainlink Hardhat logo">
+</a><br>   Keep your noggin safe with hardhat!|Chainlink Foundry<br>  <a href="https://github.com/smartcontractkit/foundry-starter-kit" target="_blank">
+<img src="./img/chainlink-foundry.png" width="225" alt="Chainlink Foundry logo">
+</a> Forge your smart contracts in the foundry|
+
+<div style="display: flex;flex-wrap: wrap; text-align:center">
 <div>
 <h3 style=""> Chainlink Mix </h3>
 <a href="https://github.com/smartcontractkit/chainlink-mix" target="_blank">
